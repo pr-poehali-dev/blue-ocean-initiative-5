@@ -21,6 +21,7 @@ export default {
 			fontFamily: {
 				sans: ['var(--font-montserrat)'],
 				heading: ['var(--font-inter)'],
+				pixel: ['var(--font-pixel)'],
 			},
 			colors: {
 				border: 'hsl(var(--border))',
