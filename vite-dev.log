@@ -1,0 +1,18 @@
+
+> vite_react_shadcn_ts@0.0.0 dev
+> vite
+
+[vite:react-swc] We recommend switching to `@vitejs/plugin-react-oxc` for improved performance as no swc plugins are used. More information at https://vite.dev/rolldown
+
+  ROLLDOWN-VITE v7.1.13  ready in 607 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://10.112.159.152:5173/
+2:35:10 AM [vite] vite.config.ts changed, restarting server...
+2:35:10 AM [vite] (client) page reload index.html
+2:35:10 AM [vite] changed tsconfig file detected: /app/webapp/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[vite:react-swc] We recommend switching to `@vitejs/plugin-react-oxc` for improved performance as no swc plugins are used. More information at https://vite.dev/rolldown
+2:35:10 AM [vite] (client) Re-optimizing dependencies because vite config has changed
+2:35:10 AM [vite] server restarted.
+2:35:13 AM [vite] (client) page reload index.html
+2:35:13 AM [vite] vite.config.ts changed, restarting server...
